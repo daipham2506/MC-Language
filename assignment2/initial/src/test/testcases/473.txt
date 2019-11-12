@@ -1,0 +1,7 @@
+
+        int[] foo(){int b[5]; return b;}
+        void main(){
+            int a; 
+            a=foo();
+        }  
+        

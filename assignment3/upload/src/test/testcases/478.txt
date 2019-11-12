@@ -1,0 +1,6 @@
+
+        void foo(int a,int b,int c){}
+        void main(){
+            foo(1,2);
+        }
+        

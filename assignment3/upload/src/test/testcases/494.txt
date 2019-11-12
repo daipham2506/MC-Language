@@ -1,0 +1,13 @@
+
+        float main(int a){
+            do{
+                for(a = 0;a >= 10; a = a*5){
+                    int b;
+                    float c;
+                    c = (b + 5 - 10/50)/5;
+                    return c;
+                }
+                
+            }while(a == 5);
+        }
+        

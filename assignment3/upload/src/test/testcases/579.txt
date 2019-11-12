@@ -1,0 +1,16 @@
+
+            int main(int a){
+                return 1;
+            }
+            void foo(){
+                {
+                    {
+                        {
+                            {
+                                return false;      //error here: void but return
+                            }
+                        }
+                    }
+                }
+            }
+        

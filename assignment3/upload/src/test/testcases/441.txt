@@ -1,0 +1,13 @@
+
+        
+        void a(){
+            
+        }
+        void foo(){
+            a();
+        }
+        
+        void main(){
+            
+        }   
+        

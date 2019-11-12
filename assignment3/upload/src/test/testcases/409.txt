@@ -1,0 +1,8 @@
+
+        int a; 
+        void main(int b,int bb){
+            float a;
+            int m;
+            
+        }   
+        

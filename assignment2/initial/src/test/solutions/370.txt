@@ -1,0 +1,1 @@
+Program([FuncDecl(Id(foo),[],VoidType,Block([If(CallExpr(Id(foo),[]),CallExpr(Id(foo),[]),CallExpr(Id(foo),[])),For(CallExpr(Id(foo),[]);CallExpr(Id(foo),[]);CallExpr(Id(foo),[]);CallExpr(Id(foo),[])),Dowhile([CallExpr(Id(foo),[])],CallExpr(Id(foo),[])),Return(CallExpr(Id(foo),[]))]))])

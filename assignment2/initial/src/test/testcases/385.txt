@@ -1,0 +1,6 @@
+
+        boolean SophiePrime(int number) {
+            if (!IsPrime(number)) return false;
+            return (IsPrime(number * 2 - 1));
+        }
+        

@@ -1,0 +1,4 @@
+int main(){
+                do for(y=0;y<10;y=y+10) 
+                    z=z+1; 
+                while x<100;}

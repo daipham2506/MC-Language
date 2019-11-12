@@ -1,0 +1,9 @@
+
+        float foo(){
+            return 9.8;
+        }
+        void main(){
+            int a;
+            a = foo();
+        }   
+        

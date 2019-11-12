@@ -1,0 +1,6 @@
+
+                void result(int mark){
+                  int a;
+                  a = b>=c==d==e;
+                }
+        

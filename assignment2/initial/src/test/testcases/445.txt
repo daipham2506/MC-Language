@@ -1,0 +1,6 @@
+
+        int a ;
+        void main(){
+            3 = a;
+        }   
+        

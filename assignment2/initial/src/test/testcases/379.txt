@@ -1,0 +1,10 @@
+
+        boolean isSquare(int n)
+        {
+            if (n < 0) return false;
+            int count;
+            count = 0;
+            do {if (count * count == n) return true; count = count + 1;} while count * count <= n;
+            return false;
+        }
+        

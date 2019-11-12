@@ -1,0 +1,7 @@
+void foo(){
+                    if (foo()) foo();
+                    else foo();
+                    for (foo();foo();foo()) foo();
+                    do foo(); while foo ();
+                    return foo();
+                }

@@ -1,0 +1,4 @@
+void b(int a[],int b){
+            int foo(){return 1}
+        }               
+        

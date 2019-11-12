@@ -1,0 +1,6 @@
+
+        int a; 
+        void a(){} 
+        int a;
+        void main(){}      
+        

@@ -1,0 +1,20 @@
+
+    boolean isIsomorphic(string s, string t) {
+      if (s_length() != t_length())
+            return false;
+
+      dodai   = s_length();
+      compare = "";
+      for (i = 0; i < dodai; i=i+1) {
+            compare = " ";
+      }
+      for (i = 0; i < dodai; i) {
+            if (compare[i] != " ")
+                  continue;
+            for (j = i; j < dodai; j)
+                  if (s[i] == s[j])
+                        compare[j] = t[i];
+      }
+      return compare == t;
+    }
+        

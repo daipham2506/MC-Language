@@ -1,0 +1,19 @@
+
+            int main(int a){
+                do{
+                    int b,c,d;
+                    float arr[10];
+                    if(b>c)
+                        break;
+                    else{
+                        do
+                        b=b+c;
+                        {
+                            d=d*b*c;
+                        }
+                        while(d<=c);
+                    }
+                }while(true);
+                return 1;
+            }
+        

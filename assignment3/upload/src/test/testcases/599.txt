@@ -1,0 +1,22 @@
+
+            int[] a(int pt[]) {
+            return pt;
+            }
+
+            int d() {
+
+            return 4;
+            }
+
+            int main() {
+
+            int arr[4];
+
+            a(arr)[3] = 4;
+
+            d() = 5;
+
+            return 0;
+
+            }
+        

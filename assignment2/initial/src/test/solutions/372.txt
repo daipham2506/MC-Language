@@ -1,0 +1,1 @@
+Program([FuncDecl(Id(rangecount),[VarDecl(a,IntType),VarDecl(b,IntType),VarDecl(inc,IntType)],IntType,Block([If(BinaryOp(<,Id(inc),IntLiteral(0)),Return(UnaryOp(-,IntLiteral(1)))),Return(BinaryOp(+,BinaryOp(/,BinaryOp(-,Id(b),Id(a)),Id(inc)),IntLiteral(1)))]))])

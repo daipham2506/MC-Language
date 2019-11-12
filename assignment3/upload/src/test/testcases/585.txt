@@ -1,0 +1,25 @@
+
+            void main(){
+                boolean arr[10];
+                {
+                    {
+                        int a,b;
+                        float c,d;
+                        float arr[10];
+                        c=-a+b*c/d-2*5;   
+                        arr[8]=a+1;
+                        arr[7]=-a;
+                        boolean hello;
+                        hello=!hello;
+                    }
+                    if(arr[0]==true){
+                        return;
+                    }
+                }
+                foo();
+                putString("I want to pass PPL");
+            }
+            int foo(){
+                return 3;
+            }
+        

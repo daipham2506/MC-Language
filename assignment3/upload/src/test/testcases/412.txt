@@ -1,0 +1,8 @@
+
+        int a; 
+        void main(){
+            if("My name is Dai"){
+                a = 1;
+            }
+        }   
+        

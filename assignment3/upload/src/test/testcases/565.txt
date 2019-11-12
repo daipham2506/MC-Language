@@ -1,0 +1,33 @@
+void main(){
+                float a,b;
+                float arr[10];
+                b=gt(4,9.5)+a/b-a*b;
+                {
+                    int f;
+                    float g;
+                    {
+                        {
+                            int g;
+                            g=f;  
+                        }
+                    }
+                    {
+                        if(true){
+                            j=g*f;      //error here
+                        }
+                    }
+                }
+                return;
+            }
+            float gt(int a, float b){    
+                {
+                    {
+                        {
+                            float a;
+                            a=a*b/2+7;
+                        }
+                    }
+                }
+                return 2;
+            }
+        

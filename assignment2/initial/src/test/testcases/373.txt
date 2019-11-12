@@ -1,0 +1,12 @@
+
+        int power(int num, int exp){
+            if (exp == 0) 
+                if (num == 0) return -1;
+                else return 1;
+            int count;
+            int result;
+            result = 1;
+            for(count = 0; count < exp; count = count + 1) result = result * num;
+            return result;
+        }
+        

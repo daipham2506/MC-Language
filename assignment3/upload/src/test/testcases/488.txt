@@ -1,0 +1,14 @@
+
+        int main(int a){
+
+            if(a==1){
+                return 1;
+            }
+            do{
+                break;
+                continue;
+                return 1;
+            }while(true);
+            
+        }
+        

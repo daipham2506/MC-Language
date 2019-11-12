@@ -1,0 +1,1 @@
+Program([VarDecl(a,ArrayType(BoolType,12))])

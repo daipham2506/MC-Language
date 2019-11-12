@@ -1,0 +1,1 @@
+Program([VarDecl(main,IntType),FuncDecl(Id(foo),[VarDecl(a,IntType),VarDecl(b,ArrayTypePointer(StringType))],StringType,Block([Return(StringLiteral(Tan Dai))]))])

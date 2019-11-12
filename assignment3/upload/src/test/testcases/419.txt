@@ -1,0 +1,9 @@
+
+        string a; 
+        void main(){
+            
+            for(5;"true";10){
+                int a;
+            }
+        }   
+        

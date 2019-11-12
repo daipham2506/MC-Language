@@ -1,0 +1,5 @@
+
+                void result(int mark){
+                  int a;
+                  a = foo(2)<=a>=b;
+        

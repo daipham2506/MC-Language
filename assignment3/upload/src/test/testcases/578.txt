@@ -1,0 +1,17 @@
+
+            int main(int a){
+                foo();
+                return 1;
+            }
+            float foo(){
+                {
+                    {
+                        {
+                            {
+                                return false;      //error here: not match type
+                            }
+                        }
+                    }
+                }
+            }
+        

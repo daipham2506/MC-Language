@@ -1,0 +1,15 @@
+
+        void SelectionSort(int a[], int size) {
+            int i;
+        	for (i = 0; i < size - 1; i = i + 1) {
+		        int smallest, w;
+                smallest = i;
+	        	for (w = i + 1; w < size; w = w + 1) {
+			        if (a[w] < a[smallest]) {
+				        smallest = w;
+			        }
+		        }
+		        swap(a[smallest], a[i]);
+	        }
+        }
+        

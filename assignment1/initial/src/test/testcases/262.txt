@@ -1,0 +1,8 @@
+
+        int foo() {
+          foo();
+          foo(3);
+          Caculate("",true);
+          c==d=f=g;
+        }
+        

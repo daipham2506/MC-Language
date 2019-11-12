@@ -1,0 +1,6 @@
+
+        int main(){
+            do { }
+            while((arr[i])[j]);
+        }
+        

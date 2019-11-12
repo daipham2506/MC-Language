@@ -1,0 +1,1 @@
+Program([FuncDecl(Id(main),[],IntType,Block([Dowhile([BinaryOp(+,Id(a),IntLiteral(1))],BinaryOp(<,Id(a),IntLiteral(5)))]))])

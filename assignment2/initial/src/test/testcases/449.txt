@@ -1,0 +1,10 @@
+float test(){
+           for(i=1;i<10;i=i+1){
+               a="Principle";
+               b="Programming";
+               c="Language";
+               z=a+b+c;
+               if(z==null) break;
+               print("rs = " + z);
+           }
+        }

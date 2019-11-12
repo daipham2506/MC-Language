@@ -1,0 +1,9 @@
+
+        boolean IsPrime(int number) {
+            int i;
+            for (i=2; i*i<=number; i = i + 1) {
+                if (number % i == 0) return false;
+            }
+            return true;
+        }
+        

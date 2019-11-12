@@ -1,0 +1,1 @@
+Program([FuncDecl(Id(swap),[VarDecl(a,IntType),VarDecl(b,IntType)],VoidType,Block([VarDecl(temp,IntType),BinaryOp(=,Id(temp),Id(a)),BinaryOp(=,Id(a),Id(b)),BinaryOp(=,Id(b),Id(temp))]))])

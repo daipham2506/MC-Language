@@ -1,0 +1,6 @@
+
+        int rangecount(int a, int b, int inc){
+            if (inc < 0) return -1;
+            return (b - a)/inc + 1;
+        }
+        

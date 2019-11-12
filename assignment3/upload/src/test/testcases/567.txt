@@ -1,0 +1,27 @@
+
+            void a(){
+                return;
+            }
+            int main(){
+                {
+                    b();
+                    c();
+                    d();
+                    a();
+                    getInt();
+                    getFloat();
+                    putBool(true);
+                    f();    //error here
+                }
+                return 1;
+            }
+            int b(){
+                return 1;
+            }
+            string c(){
+                return "hello";
+            }
+            boolean d(){
+                return false;
+            }
+        

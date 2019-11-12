@@ -1,0 +1,8 @@
+
+        
+        void main(){
+            int a; 
+            int b[5];
+            a = b[1] + 5;
+        }  
+        

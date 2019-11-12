@@ -1,0 +1,18 @@
+
+                void main(){
+                  int i,j,a[10];
+                  for(i=0;i<10;i=i+1)
+                    a[i]=(i+10)*5;
+                    j=10;
+                  for(i=0;i<5;i=i+1){
+                    do{
+                      int temp;
+                      temp = a[i];
+                      a[i]=a[j];
+                      a[j] = temp;
+                      j = j-1;
+                    }
+                    while (j<5);
+                  }
+                }        
+        

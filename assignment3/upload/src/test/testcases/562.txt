@@ -1,0 +1,27 @@
+void main(){
+                int a,b;
+                float arr[10];
+                arr[a]=foo(arr)[b];
+                return;
+            }
+            float[] foo(float n[]){
+                float arr[100];
+                int a;
+                for(a=0;a<100;a=a+1){
+                    {
+                        int c,d;
+                        int gt;
+                    }
+                }
+                if(true){
+                    gt();
+                    float gt;
+                    gt();
+                    gt=9.786;
+                }
+                return arr;
+            }
+            float gt(){
+                return 2;
+            }
+        

@@ -1,0 +1,16 @@
+
+            void main(){
+                string arr[10];
+                {
+                    {
+                        int arr[10];
+                        arr[2]=false;    //error here
+                    }
+                }
+                foo();
+                putString("I want to pass PPL");
+            }
+            int foo(){
+                return 3;
+            }
+        

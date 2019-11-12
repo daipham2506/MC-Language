@@ -1,0 +1,19 @@
+
+        int main(string args[],int argc){
+            int i;
+            int arr[5];
+            string s;
+            i=1;
+            arr = foo(i);
+            s = args[0];
+            println(s);
+            hello();
+        }
+        int [] foo(int i){
+            int a[5];
+            for(i;i<5;i=i+1)
+            a[i] = i;
+            return a;
+        }
+        void hello(){ println("Hello MC language");}
+        

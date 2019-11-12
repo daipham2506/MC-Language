@@ -1,0 +1,1 @@
+int main(){foo(a,1.2,c);}

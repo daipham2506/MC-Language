@@ -1,0 +1,9 @@
+
+        void main(int a){
+            putInt(1);
+            getInt();
+            putStringLn("1");
+            putFloat(1);
+            putBool(1);
+        }
+        

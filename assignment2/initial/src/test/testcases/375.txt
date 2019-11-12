@@ -1,0 +1,10 @@
+
+        int ceilsqrt(int num)
+        {
+            if (num == 0 || num == 1) return num;
+            int count; int result;
+            count = 0;
+            do count = count + 1; while count * count < x;
+            return (count + 1) * (count + 1);
+        }
+        

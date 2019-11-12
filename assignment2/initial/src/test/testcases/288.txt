@@ -1,0 +1,11 @@
+
+        string upper(string arr, int n) {
+          for (i = 0; i < n; i=i+1) {
+            if (arr[i] >= "0" && arr[i] <= "9") continue;
+            if (arr[i] >= "a" && arr[i] <= "z") {
+              arr[i] = "A" - ("a" - arr[i]);
+            }
+          }
+          return arr;
+        }
+        

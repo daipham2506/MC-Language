@@ -1,0 +1,1 @@
+int main(){foo(a[foo(4)]) = foo(2019);}

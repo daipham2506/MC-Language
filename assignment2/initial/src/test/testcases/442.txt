@@ -1,0 +1,20 @@
+
+        
+        void a(){
+            
+        }
+        void b(){}
+        void foo(){
+            { 
+                a();
+            }
+        }
+        
+        void main(){
+            {
+                {
+                    foo();
+                }
+            }
+        }   
+        

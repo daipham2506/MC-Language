@@ -1,0 +1,7 @@
+
+        int foo(){int a; return a;}
+        void main(){
+            int a; 
+            a=foo()[2];
+        }
+        

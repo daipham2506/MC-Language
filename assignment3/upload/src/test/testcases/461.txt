@@ -1,0 +1,3 @@
+
+        void main(){boolean a,b; b=-a;}   
+        

@@ -1,0 +1,17 @@
+
+            int main(int a){
+                {
+                   {
+                       boolean a,b,c;                    
+                       if(a && b && c){
+                           a=false;
+                           c=false;
+                       }
+                       else{
+                           b=false;
+                       }
+                   }
+                }
+                return 1;
+            }
+        

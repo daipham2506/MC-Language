@@ -1,0 +1,6 @@
+
+        void main(){
+            float a; 
+            a = a % 1.1;
+        }   
+        

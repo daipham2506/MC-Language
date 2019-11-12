@@ -1,0 +1,7 @@
+void b(int a[],int b){
+                          int a;a=1;println(a);
+                          {
+                            int b;b=1;
+                            println(b);
+                          }
+                }

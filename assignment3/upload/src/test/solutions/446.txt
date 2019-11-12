@@ -1,0 +1,1 @@
+Not Left Value: BinaryOp(=,BinaryOp(+,IntLiteral(3),IntLiteral(1)),CallExpr(Id(foo),[]))

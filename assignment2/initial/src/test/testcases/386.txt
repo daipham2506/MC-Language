@@ -1,0 +1,15 @@
+
+        void BubbleSort(int a[], int n) {
+	        boolean flag;
+            flag = false;
+            int i,j;
+	        for (i = 0; i < n && flag == false; i = i + 1) {
+	            flag = true;
+		        for (j = n - 1; j > i; j = j - 1) {
+			        if (a[j - 1] > a[j]) {
+				        swap(a[j - 1], a[j]);
+			        }
+		        }
+	        }
+        }
+        

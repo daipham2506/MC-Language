@@ -1,0 +1,11 @@
+
+        int [] foo(int i)
+        {
+            int a[5];
+            return a;
+        }
+        void main(){
+            int a,c; 
+            a=foo(1)[2]+10*4/2;
+        } 
+        

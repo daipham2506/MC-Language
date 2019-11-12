@@ -1,0 +1,14 @@
+
+        void InsertionSort(int a[], int n) {	
+            int i;
+	        for (i = 1; i < n; i = i + 1) {
+		        int w, temp;
+                temp = a[i];
+		        for (w = i - 1; w >= 0 && temp < a[w]; w = w - 1) {
+			        a[w + 1] = a[w];
+			        w = w - 1;
+		        }
+		        a[w + 1] = temp;
+	        }
+        }
+        

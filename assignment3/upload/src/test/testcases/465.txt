@@ -1,0 +1,6 @@
+
+        void main(){
+            int a; float b; 
+            b = 1.0e1+5.0*a;
+        }   
+        

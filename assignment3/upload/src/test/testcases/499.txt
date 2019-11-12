@@ -1,0 +1,10 @@
+
+        int main(){
+            int a;
+            a = putInt();
+            return 0;
+        }
+        int putInt(){
+            return 1;
+        }
+        

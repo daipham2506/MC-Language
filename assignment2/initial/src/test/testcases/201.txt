@@ -1,0 +1,1 @@
+int a,b,c[3],d,e[0];float k;

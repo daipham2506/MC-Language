@@ -1,0 +1,25 @@
+
+            void main(){
+                boolean arr[10];
+                {
+                    {
+                        if(arr[9]==false){
+                            int arr[10];
+                            arr[9]=20;  
+                            arr[8]=false;       //error here
+                        }
+                        else{
+                            return;
+                        }
+                    }
+                    if(arr[0]==true){
+                        return;
+                    }
+                }
+                foo();
+                putString("I want to pass PPL");
+            }
+            int foo(){
+                return 3;
+            }
+        

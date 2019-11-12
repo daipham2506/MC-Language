@@ -1,0 +1,11 @@
+
+        int foo() {
+          if(a==1)
+          {
+            if(a)
+              c=10.45E-10;
+            else
+              return 1;
+          }
+        }
+        

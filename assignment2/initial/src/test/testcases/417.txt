@@ -1,0 +1,9 @@
+ 
+        int a;
+        void main(){
+            do{
+                a = 7;  
+            }  
+            while(true);
+        }
+        

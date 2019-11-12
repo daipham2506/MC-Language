@@ -1,0 +1,5 @@
+void func(){
+            a=true;
+            true+false=true;
+            true*false=false;
+        }

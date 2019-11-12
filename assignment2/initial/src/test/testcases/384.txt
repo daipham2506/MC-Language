@@ -1,0 +1,8 @@
+
+        int TwinPrime(int number) {
+            if (!IsPrime(number)) return -1;
+            if (IsPrime(number - 2)) return number - 2;
+            if (IsPrime(number + 2)) return number + 2;
+            return -1;
+        }
+        

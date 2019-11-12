@@ -1,0 +1,17 @@
+
+        int fibonacci(int n)
+        {
+            if (n == 1) return 1;
+            if (n == 2) return 2;
+            int a,b,c,count;
+            a = 1;
+            b = 2;
+            for (count = 2; count < n; count = count + 1)
+            {
+                c = a + b;
+                a = b;
+                b = c;
+            }
+            return b;
+        }
+        

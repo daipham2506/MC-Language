@@ -1,0 +1,16 @@
+
+        void ShellSort(int a[], int size) {
+            int i,k;
+	        for (k = size / 2; k >= 1; k = k / 2) {
+		        for (i = k; i < size; i = i + 1)
+	        	{
+			        int w, temp;
+                    temp = a[i];
+		        	for (w = i; w >= k && a[w - k] > temp; w = w - k) {
+			        	a[w] = a[w - k];
+		        	}
+			        a[w] = temp;
+        		}
+	        }
+        }
+        

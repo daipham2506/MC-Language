@@ -1,0 +1,1 @@
+int a,b[3]; float foo(){} float[] bar(){}

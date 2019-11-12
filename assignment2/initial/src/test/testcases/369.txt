@@ -1,0 +1,8 @@
+int foo(){
+                    if (a == 1)
+                        if (b == 2)
+                            if (c == 3) return 1;
+                            else return 2;
+                        else return 3;
+                    else return 4;
+                }

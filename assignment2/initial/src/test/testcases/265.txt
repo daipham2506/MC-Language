@@ -1,0 +1,7 @@
+
+        int foo() {
+          if(a==1)
+            foo(a);
+          else int a;
+        }
+        

@@ -1,0 +1,17 @@
+void main(){
+                int a,b;
+                float arr[10];
+                gt(a,9.5);
+                return;
+            }
+            float gt(int a, float a){    //error here
+                {
+                    {
+                        {
+                            float a;
+                        }
+                    }
+                }
+                return 2;
+            }
+        

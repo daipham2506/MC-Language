@@ -1,0 +1,14 @@
+
+        float a; 
+        void main(int b,int bb){
+            float a;
+            int m;
+            {
+                float a;
+                {
+                    float a;
+                }
+            }
+            
+        }    
+        

@@ -1,0 +1,26 @@
+
+            int main(int a){
+                {
+                   {
+                       int a,b,c;                    
+                       if(a >= b+c){ 
+                           if(a<b){
+                               if(a==c){
+                                   float c;
+                                   c=9.5;
+                               }
+                           }
+                           a=b+c;
+                       }
+                       else{
+                           if(c==10){
+                               float c;
+                               c=b+a*9.5;
+                           }
+                           b=10;
+                       }
+                   }
+                }
+                return 1;
+            }
+        

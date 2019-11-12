@@ -1,0 +1,18 @@
+
+            int main(int a){
+                {
+                   {
+                       int a,b,c;                    
+                       if(a = b+c){ //error here: wrong condition
+                           a=10;
+                           c=10;
+                           a=b+c;
+                       }
+                       else{
+                           b=10;
+                       }
+                   }
+                }
+                return 1;
+            }
+        

@@ -1,0 +1,19 @@
+
+            void main(){
+                string arr[10];
+                {
+                    {
+                        int a,b;
+                        boolean c,d;
+                        float arr[10];
+                        c=a+b*c/d-2*5;      //error here  
+                        arr[8]=a+1;
+                    }
+                }
+                foo();
+                putString("I want to pass PPL");
+            }
+            int foo(){
+                return 3;
+            }
+        

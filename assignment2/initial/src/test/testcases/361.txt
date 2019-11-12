@@ -1,0 +1,5 @@
+void foo()
+                    {
+                        string a;
+                        a = "bcd[e]";
+                    }

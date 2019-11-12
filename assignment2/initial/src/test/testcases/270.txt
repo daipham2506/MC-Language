@@ -1,0 +1,6 @@
+
+        int foo() {
+          for(1;true;3)
+            a=a+1;
+        }
+        

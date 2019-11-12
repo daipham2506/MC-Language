@@ -1,0 +1,3 @@
+void foo(){
+                    do do do do x = x+1; while a == b; while c == d; while e == f; while g == h;    
+                }

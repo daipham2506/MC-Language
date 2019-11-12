@@ -1,0 +1,6 @@
+
+        void main(){
+            string a;
+            a[5] = 10;
+        }   
+        

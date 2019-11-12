@@ -1,0 +1,6 @@
+
+        int foo() {
+          for(a;b;c)
+            break ;
+        }
+        

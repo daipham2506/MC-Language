@@ -1,0 +1,8 @@
+
+                int main(){
+                  boolean a;
+                  a=true;
+                  do { }
+                  while a==true
+                }       
+        

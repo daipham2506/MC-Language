@@ -1,0 +1,11 @@
+
+        int foo() {
+          if(a==1)
+            foo(a);
+          else if(a==2)
+            foo(a,2);
+          else
+            foo(3);
+          else foo(4);
+        }
+        

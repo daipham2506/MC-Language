@@ -1,0 +1,20 @@
+
+      int main(){
+       // Gia su mang co 5 phan tu
+          int array[5],a;
+        for (i = 0; i < 5; i)
+        {
+        cout("array[",i,"] = ");
+        cin(array[i]);
+        }
+         for (i = 0; i < 5;i)
+           cout(array[i]," ");
+
+         for (i = 0; i < 2; i)
+         {
+            a = array[i];
+            array[i] = array[4 - i];
+            array[4 - i] = a;
+        }
+      system("pause");}
+        

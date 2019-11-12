@@ -1,0 +1,13 @@
+int main(){
+                int a,b;
+                int arr[10];
+                arr[a]=a+b/(4+5)*7-a*b;
+                b=gt(10);
+                return 0;
+            }
+            int gt(int n){
+                if(n==0 || n==1)
+                    return 1;
+                return gt(n-1)*n;
+            }
+        

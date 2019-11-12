@@ -1,0 +1,19 @@
+
+            int main(){
+                boolean arr[10];
+                foo();
+                putString("I want to pass PPL");
+                string a;
+                a="hello";
+                int b;
+                b+2=5;      //error here
+                return 0;
+                print(a);
+            }
+            int foo(){
+                return 3;
+            }
+            void print(string a){ 
+                putString(a);
+            }
+        

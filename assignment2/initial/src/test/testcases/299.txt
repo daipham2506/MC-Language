@@ -1,0 +1,19 @@
+
+       boolean isPrime(int number){
+        int i;
+          if (number < 2) {
+            return false;
+          }
+          for (i = 2; i*i <= number; i) {
+            if (number % i == 0) return false;
+          }
+          return true;
+        }
+        void printPrime(int arr[], int N)
+        {
+          if (N == 0) return;
+          else if (isPrime(arr))
+              cout(arr);
+          printPrime(arr+1, N-1);  
+        }
+        

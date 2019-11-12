@@ -1,0 +1,7 @@
+
+        void foo(int a[],int b){}
+        void main(){
+            int m[5];
+            foo(m,2);
+        }
+        

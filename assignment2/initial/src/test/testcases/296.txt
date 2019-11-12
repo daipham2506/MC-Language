@@ -1,0 +1,9 @@
+
+        void foo(float a [] ){ }
+        void goo(float x[]) { 
+          float y[10]; 
+          int z [10]; 
+          foo(x); //CORRECT 
+          foo(y); //CORRECT 
+          }
+        

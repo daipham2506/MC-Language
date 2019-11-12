@@ -1,0 +1,17 @@
+
+        int a[10];
+        void printArray(int begin, int end){
+          if(begin < end){ 
+            cout(a[begin]);
+            printArray(begin + 1, end);
+          }
+        }
+        int minimum(int b[], int begin, int end){
+          if (begin < end){
+            if (b[begin] < b[begin + 1]) 
+               small = b[begin];
+            minimum(b, begin + 1, end);
+          }
+          return small;
+        }
+        

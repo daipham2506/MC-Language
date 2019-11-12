@@ -1,0 +1,1 @@
+Not Left Value: BinaryOp(=,BinaryOp(+,ArrayCell(Id(b),IntLiteral(1)),IntLiteral(1)),BinaryOp(+,ArrayCell(Id(c),IntLiteral(7)),IntLiteral(10)))

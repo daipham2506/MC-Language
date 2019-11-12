@@ -1,0 +1,17 @@
+void main(){
+                int a,b;
+                float arr[10];
+                arr[a]=foo(arr)[b];
+                return;
+            }
+            float[] foo(float n[]){
+                float arr[100];
+                int a;
+                if(a==0 || a==1)
+                    return arr;
+                return n;
+            }
+            void getFloat(){
+                return;
+            }
+        

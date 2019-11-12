@@ -1,0 +1,6 @@
+
+        int main;
+        string foo(int a, string b[]){
+            return "Tan Dai";
+        }
+        

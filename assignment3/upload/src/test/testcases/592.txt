@@ -1,0 +1,44 @@
+
+            void main(){
+                boolean arr[10];
+                foo();
+                putString("I want to pass PPL");
+                string a;
+                getStr(a);
+                {
+                    {
+                        {
+                            string b;
+                            getStr(b);      
+                        }
+                    }
+                    {
+                        {
+                            do
+                            if(true){
+                                {
+                                    {
+                                        {
+                                            break;
+                                        }
+                                    }
+                                }
+                            }
+                            else{
+                                return;
+                            }
+                            while(true);
+                        }
+                    }
+                }
+            }
+            int foo(){
+                return 3;
+            }
+            string[] getStr(string a){
+                int size;
+                string arr[10];
+                arr[10]=a;
+                return arr;
+            }
+        
