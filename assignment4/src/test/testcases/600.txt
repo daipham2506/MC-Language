@@ -1,0 +1,16 @@
+
+        float foo(){
+            return 5.2;
+        }
+        void main(){
+            float x;
+            x = 7.2;
+            int i;
+            i = 0;
+            do{
+                i = i + 1;
+                if ((i > foo()) && (i < x)) continue;
+                putInt(i);
+            }while(i < 10);
+        }
+        

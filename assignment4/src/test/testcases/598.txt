@@ -1,0 +1,10 @@
+
+        float c[20];
+        void main(){
+            int a,b;
+            a=10;
+            b=24;
+            c[0]=a*b-20;
+            putFloat(c[0]);
+        }
+        

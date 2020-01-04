@@ -1,0 +1,17 @@
+
+        void main(){
+            int i;
+            i=0;
+            do
+            {
+                putString("PPL LOVER ");
+                i=i+1;
+                if(i==3){
+                    {
+                        break;
+                    }
+                }
+            }
+            while(i<5);
+        }
+        

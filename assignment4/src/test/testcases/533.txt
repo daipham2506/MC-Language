@@ -1,0 +1,13 @@
+
+        int func(int a){
+            if (a < 3){
+                a = 2;
+                return a;
+            }
+            else 
+                return 3;
+        }
+        void main(){
+            putInt(func(1));
+        }
+        

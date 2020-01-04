@@ -1,0 +1,6 @@
+
+        void main() {
+            boolean flag;
+            flag = true && false;
+            putBool(flag);
+        }

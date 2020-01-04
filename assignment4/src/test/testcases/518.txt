@@ -1,0 +1,13 @@
+
+        void main(){
+            int a;
+            a=gt(3);
+            putInt(a);
+        }
+        int gt(int n){
+            if(n==1 || n==0){
+                return 1;
+            }
+            return n*gt(n-1);
+        }
+        

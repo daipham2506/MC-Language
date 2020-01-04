@@ -1,0 +1,8 @@
+
+            void main(){
+                float arr[3];
+                arr[0]= 1.2;
+                arr[1] = 2;
+                arr[2] = arr[0] * arr[1];
+                putFloat(arr[2]);
+            }

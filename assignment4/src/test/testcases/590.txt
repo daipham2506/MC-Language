@@ -1,0 +1,15 @@
+
+        int[] foo(int n){
+            int arr[3];
+            return arr;
+        }
+        void main(){
+            int x;
+            x = 1 ;
+            int a[5];
+            int b[5];
+            b[2] = 2;
+            a[2]= 5;
+            foo(3)[1+x] = a[b[2]] + 3;
+            putInt(foo(3)[1+x]);
+        }

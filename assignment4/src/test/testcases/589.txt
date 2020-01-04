@@ -1,0 +1,10 @@
+
+        void main(){
+            int x;
+            x = 1;
+            float a[5];
+            int b[5];
+            b[2] = 2;
+            a[2]= 5;
+            putFloat(a[b[2]]);
+        }

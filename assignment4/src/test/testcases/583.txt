@@ -1,0 +1,11 @@
+
+        void main(){
+            boolean a;
+            boolean b;
+            a = true;
+            b = !a && true;
+            if (b != true){
+                putString("This is False");
+            }
+            return;
+        }

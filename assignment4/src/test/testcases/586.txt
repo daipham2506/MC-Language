@@ -1,0 +1,13 @@
+
+      
+        void main(){
+            int main;
+            main=1;
+            putInt(main);
+            {
+                int main;
+                main=100;
+                putInt(main);
+            }
+            putInt(main);
+        }

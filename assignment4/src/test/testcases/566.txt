@@ -1,0 +1,14 @@
+
+        void main() {
+            int a;
+            a = 0 ;
+            do{
+                a = a + 1;
+                if (a == 2){
+                    continue;
+                }
+                putIntLn(3);                
+                
+            }
+            while(a < 4);
+        }

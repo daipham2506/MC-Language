@@ -1,0 +1,14 @@
+
+        void main(){
+            int i;
+            i = 0 ;
+            do{
+                i = i + 1;                
+                if (i == 3){
+                    continue;
+                }                 
+                putString("Do while time: ");
+                putIntLn(i); 
+            }while(i < 5);                         
+        }
+        

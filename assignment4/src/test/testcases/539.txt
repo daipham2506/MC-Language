@@ -1,0 +1,16 @@
+
+            int foo(int a){
+                do
+                {
+                }
+                {
+                    a = a + 2 ;
+                }
+                return a;
+                {
+                }
+                while(a <3);
+            }
+            void main(){
+                putInt(foo(0));
+            }

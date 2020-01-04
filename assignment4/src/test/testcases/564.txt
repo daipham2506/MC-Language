@@ -1,0 +1,15 @@
+
+        int a;
+        void main() {
+            a = 1;
+            float x;
+            x = 0.1;
+            do{
+                a = a + 1 ;
+            }
+            {
+                x = x + 1;
+            }while(a < 10);
+            putIntLn(a);
+            putFloat(x);
+        }

@@ -1,0 +1,14 @@
+
+            void main(){
+                int i;
+                i = 0;
+                float arr[5];
+                do{
+                    i = i + 1;
+                    arr[i] = i*i;
+                    putString("arr[");
+                    putInt(i);
+                    putString("] =");
+                    putFloatLn(arr[i]);
+                }while(i<4);
+            }

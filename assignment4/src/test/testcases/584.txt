@@ -1,0 +1,10 @@
+
+        void main(){
+            if (false){
+                putString("This is False");
+            }
+            else{
+                putString("This is True");
+            }
+            return;
+        }

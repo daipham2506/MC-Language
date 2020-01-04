@@ -1,0 +1,1 @@
+GCD of 9 and 6: 3

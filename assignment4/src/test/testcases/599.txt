@@ -1,0 +1,12 @@
+
+        void main(){
+            float x;
+            x = 5.6;
+            if (x <= 6.0){
+                putString("Successful");
+            }
+            else{
+                putString("Fail");
+            }
+        }
+        

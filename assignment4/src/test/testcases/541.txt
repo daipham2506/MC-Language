@@ -1,0 +1,9 @@
+
+            void func(){
+                putFloat(5.3);
+                return;
+            }
+            void main(){
+                func();
+                return;
+            }

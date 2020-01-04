@@ -1,0 +1,12 @@
+
+        void main(){
+            float a,b,c;
+            float arr[10];
+            a=1.0;
+            b=2.4;
+            c=3.2;
+            arr[0]=a*b-c;
+            putFloat(arr[0]);
+        }
+        
+        

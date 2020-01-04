@@ -1,0 +1,9 @@
+
+        float foo(int a, float b){
+            return a - b;
+        }
+        void main() {
+            float x;
+            x  = foo(6,1.5);
+            putFloat(x);
+        }

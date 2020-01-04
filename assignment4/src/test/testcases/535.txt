@@ -1,0 +1,12 @@
+
+            int foo(){
+                int x ;
+                x = 3;
+                if(x <= 2)
+                    return 3 * 2;
+                else
+                    return 3 + 2;
+            }
+            void main(){
+                putInt(foo());
+            }

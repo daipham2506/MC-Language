@@ -1,0 +1,12 @@
+void main() {
+            int a;
+            a = 1;
+            if(a==2){
+                putString("condition true");
+            }
+            else{
+                int b;
+                b = 10 ;
+                putInt(b);
+            }
+        }

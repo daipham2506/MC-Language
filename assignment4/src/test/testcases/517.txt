@@ -1,0 +1,8 @@
+
+        int foo(int a){
+            
+            return a + 2;
+        }
+        void main(){
+            putInt(foo(5)*3);
+        }

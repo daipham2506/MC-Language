@@ -1,0 +1,12 @@
+
+        int foo(int arr[]){
+            int i;
+            for(i = 0 ; i < 3; i = i + 1){
+                arr[i] = i;
+            }
+            return arr[1];
+        }
+        void main(){
+            int arr[3];
+            putInt(foo(arr));
+        }

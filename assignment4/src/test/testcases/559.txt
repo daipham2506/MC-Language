@@ -1,0 +1,9 @@
+
+        void main() {
+            int x;
+            x  = 5 ;
+            if (x == 5)
+                putFloat(5.5);
+            else
+                putFloat(1.5);
+        }

@@ -1,0 +1,9 @@
+
+            boolean arr[2];
+            void main(){
+                arr[0] = false;
+                arr[1] = true;
+                if(arr[1]){
+                    putString("This is ArrayCell True");
+                }
+            }

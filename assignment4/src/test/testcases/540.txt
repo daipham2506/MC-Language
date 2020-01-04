@@ -1,0 +1,8 @@
+
+            void func(int a){
+                putString("Hello");
+                return;
+            }
+            void main(){
+                func(3);
+            }

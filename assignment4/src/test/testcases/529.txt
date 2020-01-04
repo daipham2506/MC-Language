@@ -1,0 +1,12 @@
+
+        void main(){
+            int a;
+            a = 2;
+            float x;
+            x  = 0;            
+            if(a<=3){
+                x = 3 / 2; 
+            }
+            putFloat(x);                 
+        }
+        

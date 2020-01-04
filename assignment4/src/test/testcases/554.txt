@@ -1,0 +1,6 @@
+
+        void main() {
+            float x;
+            x = 8.3 - 3;
+            putFloatLn(x);
+        }

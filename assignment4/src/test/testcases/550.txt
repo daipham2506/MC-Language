@@ -1,0 +1,11 @@
+
+            int arr[3];
+            int x;
+            void main(){
+                int i;
+                x = 2;
+                for (i = 2; i >=0; i =  i -1 ){
+                    arr[i] = x * i;
+                }
+                putIntLn(arr[1]);
+            }

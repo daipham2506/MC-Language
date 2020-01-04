@@ -1,0 +1,9 @@
+
+        int foo(int a){
+            if (a == 3)
+                return a*2;
+            return 1;
+        }
+        void main(){
+            putInt(foo(3));
+        }

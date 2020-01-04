@@ -1,0 +1,12 @@
+
+            void main(){
+                int a,b,c;
+                int arr[10];
+                a=10;
+                b=20;
+                c=30;
+                arr[0]=a*b-c;
+                putInt(arr[0]);
+            }
+            
+            

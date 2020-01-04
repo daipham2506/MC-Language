@@ -1,0 +1,14 @@
+
+            float foo(){
+                int i;
+                float arr[5];
+                for(i = 0 ; i < 5; i = i + 1){
+                    arr[i] = 10 - i;
+                }
+                return arr[2];
+            }
+            void main(){
+                float a;
+                a=foo();
+                putFloat(a);
+            }

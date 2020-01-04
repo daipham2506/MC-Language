@@ -1,0 +1,11 @@
+void main() {
+            int i; i= 1;
+            int a;
+            a = 1;
+            do {
+                a = a+ 1;
+                i = i * a;
+            }
+            while(a <10);
+            putInt(i);
+        }
